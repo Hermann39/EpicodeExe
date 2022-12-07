@@ -1,0 +1,16 @@
+Asset Class	Descrizione	Peso %	Quantità	"Prezzo
+Ultimo"	"Cambio
+Ultimo"	Controvalore	Plus/Min	P/M %
+Liquidità	"Liquidità Euro; Usd"	0,06451	2608,52	0	1	2608,52	0	0
+Bond	"Btp ""1,60%"" Infl Linked 2028"	0,22511	9000	101,0826236	1	9102,64	97,43	0,010819292
+Commodity	Etf Securities Physical Gold	0,11795	30	158,98	1	4769,4	859,17	0,219723648
+Commodity	21Shares Etf Bitcoin Eur	0,03472	248	5,661	1	1403,93	-1878,11	-0,572238608
+Commodity	21Shares Etf Cardano Eur	0,01191	80	6,02	1	481,6	-2528,96	-0,840029762
+Commodity	Han Etf Bitcoin Eur	0,00306	8	15,451	1	123,61	-197	-0,614453698
+Equity US	Coursera Inc.	0,05563	179	13,23	1,05275	2249,51	-1413,46	-0,385878126
+Equity Cina	Etf Krane China Big Tech Company	0,14204	300	20,155	1,05275	5743,53	-2105,87	-0,2682842
+Equity Cina	Etf Wisdomtree S&P China500	0,08815	317	11,244	1	3564,35	-214,91	-0,05686563
+Equity EU	"""Generali"""	0,09238	217	17,215	1	3735,66	-62,91	-0,016561496
+Equity EU	Poste Italiane	0,07599	326	9,426	1	3072,88	656,65	0,271766347
+Equity EU	Illimity	0,0577	307	7,6	1	2333,2	-145,69	-0,058772273
+Equity EU	Lyxor FtseMIB Short 2x	0,03054	1318	0,9371	1	1235,1	-567,76	-0,314921846
