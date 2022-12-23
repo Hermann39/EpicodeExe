@@ -1,0 +1,125 @@
+<?xml version= "1.0" encoding ="UTF-8"?>
+<campionato_baseball_2022>	
+	<gara>
+		<campionato>Serie A Baseball 2022</campionato>
+			<sigla_gara>B00SAAAA0214-2022</sigla_gara>
+			<data>
+				<giorno>10</giorno>
+				<mese>07</mese>
+			</data>
+			<citta_campo>Poviglio</citta_campo>
+			<squadre>
+				<casa>PLATFORM TMC POVIGLIO</casa>
+				<ospite>CAMPIDONICO GRIZZLIES</ospite>
+			</squadre>
+		<arbitro>	
+			<ruolo>Arbitro Capo</ruolo>
+			<Nome>ermanno</Nome>	
+			<Cognome>de vuono</Cognome>
+			<autorizzazione_auto>parziale</autorizzazione_auto>
+		</arbitro>	
+		<arbitro>	
+			<ruolo>Arbitro Base</ruolo>
+			<Nome>Sebastian</Nome>	
+			<Cognome>Iacono</Cognome>
+			<autorizzazione_auto>Totale</autorizzazione_auto>
+		</arbitro>
+	</gara>
+	
+	<gara>
+		<campionato>Serie A Baseball 2022</campionato>
+			<sigla_gara>B00SAAAA0114-2022</sigla_gara>
+			<data>
+				<giorno>10</giorno>
+				<mese>07</mese>
+			</data>
+			<citta_campo>Poviglio</citta_campo>
+			<squadre>
+				<casa>PLATFORM TMC POVIGLIO</casa>
+				<ospite>CAMPIDONICO GRIZZLIES</ospite>
+			</squadre>
+	
+		<arbitro>	
+			<ruolo>Arbitro capo</ruolo>
+			<Nome>Sebastian</Nome>	
+			<Cognome>Iacono</Cognome>
+			<autorizzazione_auto>Totale</autorizzazione_auto>
+		</arbitro>
+		<arbitro>	
+			<ruolo>Arbitro base</ruolo>
+			<Nome>ermanno</Nome>	
+			<Cognome>de vuono</Cognome>
+			<autorizzazione_auto>parziale</autorizzazione_auto>
+		</arbitro>
+	</gara>
+	
+	<gara>
+		<campionato>Serie A Coppa Italia Baseball 2022</campionato>
+			<sigla_gara>B00X1EFO0211-2022</sigla_gara>
+			<data>
+				<giorno>27</giorno>
+				<mese>08</mese>
+			</data>
+			<citta_campo>Ronchi Dei Legionari</citta_campo>
+			<squadre>
+				<casa>NEW BLACK PANTHERS RONCHI DEI LEGIONARI</casa>
+				<ospite>SETTIMO TORINESE</ospite>
+			</squadre>
+		<arbitro>	
+			<ruolo>Arbitro capo</ruolo>
+			<Nome>Alessia</Nome>	
+			<Cognome>Cicconi</Cognome>
+			<autorizzazione_auto>Totale</autorizzazione_auto>
+		</arbitro>
+		<arbitro>	
+			<ruolo>Arbitro base</ruolo>
+			<Nome>ermanno</Nome>	
+			<Cognome>de vuono</Cognome>
+			<autorizzazione_auto>Totale</autorizzazione_auto>
+		</arbitro>
+	</gara>
+	<gara>
+		<campionato>Serie A Coppa Italia Baseball 2022</campionato>
+			<sigla_gara>B00X1EFO0111-2022</sigla_gara>
+			<data>
+				<giorno>27</giorno>
+				<mese>08</mese>
+			</data>
+			<citta_campo>Ronchi Dei Legionari</citta_campo>
+			<squadre>
+				<casa>NEW BLACK PANTHERS RONCHI DEI LEGIONARI</casa>
+				<ospite>SETTIMO TORINESE</ospite>
+			</squadre>
+		<arbitro>	
+			<ruolo>Arbitro capo</ruolo>
+			<Nome>Ermanno</Nome>	
+			<Cognome>De Vuono</Cognome>
+			<autorizzazione_auto>Totale</autorizzazione_auto>
+		</arbitro>
+		<arbitro>	
+			<ruolo>Arbitro base</ruolo>
+			<Nome>Alessia</Nome>	
+			<Cognome>Cicconi</Cognome>
+			<autorizzazione_auto>Totale</autorizzazione_auto>
+		</arbitro>
+	</gara>
+	<gara>
+		<campionato>U18 Baseball 2022</campionato>
+			<sigla_gara>B0018GAO0311-2022</sigla_gara>
+			<data>
+				<giorno>02</giorno>
+				<mese>10</mese>
+			</data>
+			<citta_campo>Modena</citta_campo>
+			<squadre>
+				<casa>ASD TORRE PEDRERA FALCONS BC</casa>
+				<ospite>B.S.C. GROSSETO 1952  Villa Croci</ospite>
+			</squadre>
+		<arbitro>	
+			<ruolo>Arbitro capo</ruolo>
+			<Nome>Ermanno</Nome>	
+			<Cognome>De Vuono</Cognome>
+			<autorizzazione_auto></autorizzazione_auto>
+		</arbitro>
+	</gara>
+</campionato_baseball_2022>
