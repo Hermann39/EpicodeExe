@@ -1,0 +1,42 @@
+{
+"io":"Ermanno",
+	"biometria" : {
+		"altezza":172,
+		"peso":77,
+		"capelli":"castani",
+		"occhi":["castani","corti","lisci"],
+                "carnagione":"scura"},		
+	"casa" : {
+		"indirizzo":"via degli elemosinieri",
+		"civico":4,
+		"cap":20125,
+		"citta":"Milano",
+		"nazione":"Italia"},
+	"lingue": ["italiano", "Inglese","Spagnolo","arabo"],
+	"lavoro" : {
+		"societa":"Azimut Capital Management Sgr",
+		"Indirizzo":"Corso Venezia",
+		"civico":48,
+		"cap":20121,
+		"citta":"Milano",
+		"nazione":"Italia"},
+	"side_activity": {
+		"Fibs":[
+		{"Arbitro":[{"Baseball":"Serie A"},{"Softball":"giovanili"},"baseball per ciechi"],"Giocatore":["baseball","softball"],"Designatore":"Lombardia"}],
+		"Cucinare":"insieme agli amici",
+		"Crypto":["investimento", "studio","analisi","Conoscenza"],
+		"PrivateEquity":["investimento","Fund Raising","Development"],
+		"Ballo":"Tango Argentino",
+		"Bicicletta":["cicloturismo", "commuting", "fixing"],
+		"Lettura":"Audiolibri", 
+		"Excel":["approfondimento", "lavoro", "relax", "data analisi","vba"]},
+	"affetti": {
+		"Amore":"Silvia",
+		"amici":["Marco", "Diego", "Toto", "Lorenzo", "Valentina", "Annina"],
+		"gatti":{"nome":["Malena","Mephisto"],"colore":"nero"},
+		"figli":false,
+		"genitori":true,
+		"nonni":false
+		
+		}
+}
