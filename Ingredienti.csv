@@ -1,0 +1,47 @@
+Id_Ingrediente;Ingrediente;GrQuantita;Fornitore;Gr_Confezione;Costo_Confezione;Tipologia
+01;Farina;170;Fornitore Base;25000;30;Pizza
+02;pomodoro;100;Fornitore Base;5000;27;Pizza
+03;aglio;10;Fornitore Base;1000;8;Pizza
+04;capperi;25;Fornitore Base;1000;35;Pizza
+05;origano;2;Fornitore Base;100;1;Pizza
+06;Olio;3;Fornitore Base;2000;15;Pizza
+07;Legna;14;Fornitore Base;25000;200;Pizza
+08;uovo;90;Fornitore Formaggio;2700;6;Pizza
+09;formaggi misti;35;Fornitore Formaggio;1000;15;Pizza
+10;grana;32;Fornitore Formaggio;1000;15;Pizza
+11;mozzarella;200;Fornitore Formaggio;10000;70;Pizza
+12;mozzarella Bufala;200;Fornitore Formaggio;1000;20;Pizza
+13;ricotta;100;Fornitore Formaggio;1000;10;Pizza
+14;scamorza;26;Fornitore Formaggio;1000;20;Pizza
+15;zola;65;Fornitore Formaggio;1000;12;Pizza
+16;acciughe;33;Fornitore Pesce;5000;125;Pizza
+17;Frutti di mare;28;Fornitore Pesce;1000;27;Pizza
+18;tonno;80;Fornitore Pesce;1500;35;Pizza
+19;pancetta;100;Fornitore Salume;2000;50;Pizza
+20;prosciutto;150;Fornitore Salume;2000;60;Pizza
+21;prosciutto crudo;100;Fornitore Salume;2000;100;Pizza
+22;salame piccante;100;Fornitore Salume;2000;50;Pizza
+23;salsiccia;100;Fornitore Salume;1500;50;Pizza
+24;speck;100;Fornitore Salume;1500;70;Pizza
+25;Wurstel;100;Fornitore Salume;1000;50;Pizza
+26;asparagi;61;Fornitore Verdura;300;25;Pizza
+27;carciofi;50;Fornitore Verdura;2000;40;Pizza
+28;cipolla;50;Fornitore Verdura;2000;15;Pizza
+29;funghi;100;Fornitore Verdura;2000;30;Pizza
+30;melanzane;100;Fornitore Verdura;1000;30;Pizza
+31;Olive;50;Fornitore Verdura;2000;30;Pizza
+32;patate fritte;100;Fornitore Verdura;2000;20;Pizza
+33;peperoni;38;Fornitore Verdura;1000;15;Pizza
+34;pomodorini;56;Fornitore Verdura;1000;15;Pizza
+35;Porcini;50;Fornitore Verdura;500;30;Pizza
+36;rucola;26;Fornitore Verdura;500;10;Pizza
+37;spinaci;55;Fornitore Verdura;1000;15;Pizza
+38;zucchine;61;Fornitore Verdura;1000;15;Pizza
+39;CocaCola;1;Fornitore Bere;24;21;Bevanda
+40;Fanta;1;Fornitore Bere;24;21;Bevanda
+41;Sprite;1;Fornitore Bere;24;21;Bevanda
+42;Chinotto;1;Fornitore Bere;24;22;Bevanda
+43;Birra;1;Fornitore Bere;24;37;Bevanda
+44;Acqua;1;Fornitore Bere;24;12;Bevanda
+45;Caffe;8;Fornitore Bere;2000;17;Bevanda
+;;;;;;
